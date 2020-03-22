@@ -6,5 +6,6 @@ Syntax: git reset <filename/dirname>
 		git reset HEAD <filename/dirname>
 
 
+
 Git Log History Format
 	git config --global alias.hist 'log --pretty=format:"%C(yellow)%h%Creset %ad | %C(green)%s%Creset%C(red)%d%Creset %C(blue)[%an]" --graph --decorate --date=shortx'
