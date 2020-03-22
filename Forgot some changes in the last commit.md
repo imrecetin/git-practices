@@ -10,3 +10,6 @@ It is a rough equivalent for:
                        $ git reset --soft HEAD^
                        $ ... do something else to come up with the right tree ...
                        $ git commit -c ORIG_HEAD
+
+
+Ref Tutorial : https://www.edureka.co/blog/common-git-mistakes/

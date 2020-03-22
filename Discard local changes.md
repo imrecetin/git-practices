@@ -9,3 +9,5 @@ git checkout -- <dirname> –local changes in all the files in the directory­­
 Command: git checkout -- README
 
 So, I discarded my last changes to the file and accepted the staged version of the file.
+
+Ref Tutorial : https://www.edureka.co/blog/common-git-mistakes/

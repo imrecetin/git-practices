@@ -8,3 +8,6 @@ Command: git reset --mixed HEAD~1
 HEAD~1 indicates a commit just before the recent commit pointed by the current branch HEAD.
 
 Files in the current snapshot removed from both the local repository and the staging area.
+
+
+Ref Tutorial : https://www.edureka.co/blog/common-git-mistakes/
