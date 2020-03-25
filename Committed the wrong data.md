@@ -15,3 +15,5 @@ Command: git reset --hard HEAD~1
 The latest commit and the corrupt files are removed from the local repository, staging area as well as the working directory.
 
 Caution: It’s a dangerous command as you end up losing files in the working directory. Not recommended on a remotely shared repository.
+
+Ref Tutorial : https://www.edureka.co/blog/common-git-mistakes/
