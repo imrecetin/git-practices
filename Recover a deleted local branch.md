@@ -10,3 +10,5 @@ Syntax: git checkout -b <branch-name> <commit-id>
 Command: git checkout -b old_code HEAD@{2}
 
 You must be now in the ‘old_code’ branch with your latest work at the time of its creation.Additionally, the ‘reflog’ pointer at HEAD@{1} was the recent commit made on the ‘old_code’ branch.To restore this unique commit just run the command as: git reset --hard HEAD@{1}.This also restores the modified files in the working directory.
+
+Ref Tutorial : https://www.edureka.co/blog/common-git-mistakes/
