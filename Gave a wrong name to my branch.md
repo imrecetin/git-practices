@@ -10,3 +10,5 @@ As you may wonder does git keeps of a track of this rename? Yes, it does refer t
 ![git branch -m old_name new_name](images/2020/03/git-branch-m-old-name-new-name.png)
 
 Renaming a branch will not affect its remote-tracking branch. We shall see in the remote section how to replace a branch on the remote repository
+
+Ref Tutorial : https://www.edureka.co/blog/common-git-mistakes/
