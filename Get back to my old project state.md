@@ -6,3 +6,6 @@ b. Create another branch out of the commit id: git checkout -b old-state e7aa9a5
 c. Continue working on the code and later merge/rebase with the ‘master’ branch.
 
 ![git checkout -b old-state e7aa9a5](images/2020/03/git-checkout-b-old-state-e7aa9a5.png)
+
+
+	Ref Tutorial : https://www.edureka.co/blog/common-git-mistakes/

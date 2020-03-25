@@ -18,3 +18,5 @@ Command: git commit -m 'Adding index.html and style.css'
 Your commit history now turns out to be:
 
 ![git reset --soft HEAD~3](images/2020/03/git-reset-soft-head-3.png)
+
+Ref Tutorial : https://www.edureka.co/blog/common-git-mistakes/
