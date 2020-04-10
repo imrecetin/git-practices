@@ -40,3 +40,7 @@ Git will pop up another dialog where you can rename the commit message of the ne
 
     # Please enter the commit message for your changes. Lines starting
     # with '#' will be ignored, and an empty message aborts the commit
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 4139d953e91f252ed84532f5c7d150cd67b6e9be
